@@ -1,3 +1,3 @@
 # prettier-example
 
-Exporations of https://prettier.io/
+Explorations of https://prettier.io/
